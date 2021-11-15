@@ -1,0 +1,2 @@
+# hidparser
+hid descriptor parser
